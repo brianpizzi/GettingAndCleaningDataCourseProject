@@ -4,7 +4,7 @@
 
 This codebook contains additional information about variables, their definitions, data, and transformations on the data.
 
-## Data
+## Data 
 
 A description of the data used in this project can be found at <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">The UCI Machine Learning Project</a>.
 

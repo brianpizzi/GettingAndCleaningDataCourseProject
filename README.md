@@ -3,7 +3,7 @@ Brian Pizzi
 
 This repository contains the R script, ReadMe, and Codebook files for the Getting and Cleaning Data course project.
 
-## Overview
+## Overview 
 
 A description of the data used in this project can be found at <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">The UCI Machine Learning Project</a>.
 
